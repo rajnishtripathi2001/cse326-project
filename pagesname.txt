@@ -1,0 +1,15 @@
+home.html
+
+about.html
+
+menu.html
+
+team.html
+
+Blog(Button)
+	=> blog1.html
+	=> blog2.html
+
+Elemnts.html
+
+Contact.html
