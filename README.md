@@ -1,6 +1,6 @@
 # cse326-project
 
-Reference file for projects.
+All information regarding this project is given in this file.
 
 Project BY Rahul Sharma and Rajnish Tripathi.
 
