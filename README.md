@@ -13,7 +13,7 @@ File and their Uses :
 
 3> headerpicA.jpg file conatins the background picture of header section of the webpage uploaded by Rajnish.
 
-4>menubar.html file contains the code od menubar section of the webpage uploaded by Rajnish.
+4>menubar.html file contains the code of menubar section of the webpage uploaded by Rajnish.
 
 
 
