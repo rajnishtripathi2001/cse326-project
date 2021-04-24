@@ -15,7 +15,7 @@ File and their Uses :
 
 4>menubar.html file contains the code of menubar section of the webpage uploaded by Rajnish.
 
-5>footer.html file contains the code of footer section of the webpage uploaded by Rahul
+5>
 
 
 
