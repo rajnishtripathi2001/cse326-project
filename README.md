@@ -25,4 +25,5 @@ File and their Uses :
 
 9>pizza.jfif,bread.jfif,Burger.jfif Uploaded by Rahul.
 
+8>Blog 1 Body.html file contains the content of Blog 1 page uploaded by Rahul.
 
