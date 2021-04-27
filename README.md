@@ -15,7 +15,14 @@ File and their Uses :
 
 4>menubar.html file contains the code of menubar section of the webpage uploaded by Rajnish.
 
-5>
+5>Home Body.html file contains the content of home page uploaded by Rahul.
 
+6>menu Body.html file contains the content of menu page uploaded by Rahul.
+
+7>contact Body.html file contains the content of menu page uploaded by Rahul.
+
+8>About Us Body.html file contains the content of About Us page uploaded by Rahul.
+
+9>pizza.jfif,bread.jfif,Burger.jfif Uploaded by Rahul.
 
 
