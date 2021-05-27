@@ -35,3 +35,5 @@ File and their Uses :
 
 14> templete.html contains the code of whole website structure uploaded by Rajnish. 
 
+15> CSE326-project.zip file contains all the webpages and other files along with Proper template, uploaded by Rajnish.
+
